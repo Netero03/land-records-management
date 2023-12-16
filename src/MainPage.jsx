@@ -6,7 +6,9 @@ function MainPage() {
   return (
     <div>
       <Navbar/>
-    <Home/>
+    <div className=' mx-20'>
+    <Home />
+    </div>
     </div>
   )
 }
