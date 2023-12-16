@@ -18,7 +18,7 @@ className="w-4/12 text-xl px-10 font-bold text-[#000000]">LAND REGISTRY</h1>
           </Link>
         </li>
         <li> 
-          <Link href="#" className="px-2 text-base text-gray-600 font-normal hover:text-black">
+          <Link to="/user" className="px-2 text-base text-gray-600 font-normal hover:text-black">
             User
           </Link>
         </li>
